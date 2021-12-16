@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chingkt/reactTutorial/static/css/main.d69af028.css",
+    "main.js": "/chingkt/reactTutorial/static/js/main.50672856.js",
+    "index.html": "/chingkt/reactTutorial/index.html",
+    "main.d69af028.css.map": "/chingkt/reactTutorial/static/css/main.d69af028.css.map",
+    "main.50672856.js.map": "/chingkt/reactTutorial/static/js/main.50672856.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d69af028.css",
+    "static/js/main.50672856.js"
+  ]
+}
